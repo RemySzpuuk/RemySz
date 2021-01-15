@@ -1,4 +1,10 @@
-### Hi there 👋
+## RemySzpuuk
+<img src="https://github-readme-stats.vercel.app/api?username=RemySzpuuk&show_icons=true&count_private=true&theme=radical" alt="github stats">
+
+
+
+
+
 
 <!--
 **RemySzpuuk/RemySzpuuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
