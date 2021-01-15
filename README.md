@@ -1,4 +1,7 @@
 ## RemySzpuuk
+<p>
+  I only just found out you could do this with your profile which is pretty cool. Unfortunately, my stats aren't very high... Which is kind of awkward...
+  Luckily, I have some projects planned for 2021 which will make my profile look more interesting and give me higher stats :D
 <img src="https://github-readme-stats.vercel.app/api?username=RemySzpuuk&show_icons=true&count_private=true&theme=radical" alt="github stats">
 
 
