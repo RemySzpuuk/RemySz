@@ -3,7 +3,7 @@
 I only just found out you could do this with your profile which is pretty cool. Unfortunately, my stats aren't very high... Which is kind of awkward...
 Luckily, I have some projects planned for 2021 which will make my profile look more interesting and give me higher stats :D
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=RemySzpuuk&show_icons=true&count_private=true&theme=radical" alt="github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=RemySzpuuk&count_private=true&hide=contribs,prs&show_icons=true&theme=gruvbox&include_all_commits=true" alt="github stats">
 
 **Languages I am confident in**
  - C
