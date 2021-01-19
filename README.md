@@ -13,7 +13,7 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  - C# (Learning)
  
  Though my most used languages will be different due to the fact some projects are not published on github.
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemySzpuuk&theme=radical" alt="github top languages">
+[Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemySzpuuk&theme=radical)
  
  **librarys/frameworks/engines I am confident in**
  - C & Python standard library
