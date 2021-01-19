@@ -5,9 +5,13 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=RemySzpuuk&show_icons=true&count_private=true&theme=radical" alt="github stats">
 
-My most used languages is even worse. I guess I really need to start working on more public projects. 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemySzpuuk&theme=radical" alt="My most used languages">
+### **Languages I am confident in**
+ - C
+ - HTML
+ - CSS
+ - Python
+ - C# (Learning)
 
 ## 2021 plans
 ### Website frameworks/languages
