@@ -5,8 +5,7 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=RemySzpuuk&show_icons=true&count_private=true&theme=radical" alt="github stats">
 
-<br>
-### **Languages I am confident in**
+**Languages I am confident in**
  - C
  - HTML
  - CSS
