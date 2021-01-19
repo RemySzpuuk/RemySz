@@ -3,7 +3,7 @@
 I only just found out you could do this with your profile which is pretty cool. Unfortunately, my stats aren't very high... Which is kind of awkward...
 Luckily, I have some projects planned for 2021 which will make my profile look more interesting and give me higher stats :D
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=RemySzpuuk&count_private=true&hide=contribs,prs&show_icons=true&theme=radical&include_all_commits=true" alt="github stats">
+[![RemySzpuuk's github stats]("https://github-readme-stats.vercel.app/api?username=RemySzpuuk&count_private=true&hide=contribs,prs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/RemySzpuuk/github-readme-stats)
 
 **Languages I am confident in**
  - C
@@ -13,7 +13,7 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  - C# (Learning)
  
  Though my most used languages will be different due to the fact some projects are not published on github.
-[Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemySzpuuk&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemySzpuuk&theme=radical)](https://github.com/RemySzpuuk/github-readme-stats)
  
  **librarys/frameworks/engines I am confident in**
  - C & Python standard library
