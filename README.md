@@ -24,7 +24,7 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
 ## 2021 plans
 ### Website frameworks/languages
 
-I really want to try learning some new frameworks in 2021. Since 2020 was more dedicated to learning low-level language like C, I thought working on my website making      abilities   would be fun. Last time I tried website development it didn't go very well so hopefully in 2021 I can get better at it.
+I really want to try learning some new frameworks in 2021. Since 2020 was more dedicated to learning a low-level language like C, I thought working on my website making      abilities would be fun. Hopefully in 2021 I can get better at it!
 
 ### **Web frameworks/languages I am interested in learning:** 
  - HTML/CSS </li>
