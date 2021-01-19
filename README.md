@@ -11,7 +11,15 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  - CSS
  - Python
  - C# (Learning)
-
+ 
+ **librarys/frameworks/engines I am confident in**
+ - C & Python standard library
+ - Beatifulsoup4 (Python)
+ - discord.py
+ - raylib (C)
+ - Unity (learning)
+ - Multithreading (python)
+ 
 ## 2021 plans
 ### Website frameworks/languages
 
