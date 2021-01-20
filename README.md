@@ -15,11 +15,11 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  
  **librarys/frameworks/engines I am confident in**
  - C & Python standard library
- - Beatifulsoup4 (Python)
- - discord.py
+ - Beautifulsoup4 (Python)
+ - Discord.py
  - raylib (C)
  - Unity (learning)
- - Multithreading (python)
+ - Multithreading (Python)
  
 ## 2021 plans
 ### Website frameworks/languages
