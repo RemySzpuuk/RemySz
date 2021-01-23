@@ -11,6 +11,10 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  - CSS
  - Python
  - C# (Learning)
+<br>
+**Github stats can also show most used languages!**
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemySzpuuk&layout=compact)](https://github.com/RemySzpuuk/github-readme-stats)
 
  
  **librarys/frameworks/engines I am confident in**
