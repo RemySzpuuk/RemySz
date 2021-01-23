@@ -2,7 +2,9 @@
 
 I only just found out you could do this with your profile which is pretty cool. Unfortunately, my stats aren't very high... Which is kind of awkward...
 Luckily, I have some projects planned for 2021 which will make my profile look more interesting and give me higher stats :D
+
 <br>
+
 [![](https://github-readme-stats.vercel.app/api?username=RemySzpuuk&count_private=true&hide=contribs,prs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/RemySzpuuk/github-readme-stats)
 
 **Languages I am confident in**
