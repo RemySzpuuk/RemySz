@@ -16,7 +16,8 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  
 <br>
 
-**Github stats can also show most used languages!**
+**Github stats can also show most used languages!** <br>
+So below are my most used languages so far. As you can see lots of html :smile: that's because I've start doing a lot more web-based projects.
 
 <br>
 
@@ -47,7 +48,7 @@ I really want to try learning some new frameworks in 2021. Since 2020 was more d
 I've enjoyed raylib so far and so I would like to start making more complex games using raylib.
 I am also interested giving back to the community in one way or the other.
 
-### Currently working on: rayworks, ResolveWebsite
+### Currently working on: rayworks, RemySzpuk.com, and ResolveWebsite (private repository, for work experience)
 
 
 
