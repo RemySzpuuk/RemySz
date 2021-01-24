@@ -8,6 +8,15 @@
     5. ~finish python sitemap auto-generation library and generate a basic sitemap :)
  */
 
+body {
+  background-color: floralwhite;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  background-color: black;
+}
+
 .grid {
   grid-template:
     [row1-start] "header header header header header" 1fr [row1-end]
