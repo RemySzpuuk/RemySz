@@ -2,7 +2,9 @@
 
 I only just found out you could do this with your profile which is pretty cool. Unfortunately, my stats aren't very high... Which is kind of awkward...
 Luckily, I have some projects planned for 2021 which will make my profile look more interesting and give me higher stats :D
+
 <br>
+
 [![](https://github-readme-stats.vercel.app/api?username=RemySzpuuk&count_private=true&hide=contribs,prs&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/RemySzpuuk/github-readme-stats)
 
 **Languages I am confident in**
@@ -11,15 +13,24 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  - CSS
  - Python
  - C# (Learning)
+ 
+<br>
+
+**Github stats can also show most used languages!** <br>
+So below are my most used languages so far. As you can see lots of html :smile: that's because I've start doing a lot more web-based projects.
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RemySzpuuk&layout=compact&theme=radical)](https://github.com/RemySzpuuk/github-readme-stats)
 
  
  **librarys/frameworks/engines I am confident in**
  - C & Python standard library
- - Beatifulsoup4 (Python)
- - discord.py
+ - Beautifulsoup4 (Python)
+ - Discord.py
  - raylib (C)
  - Unity (learning)
- - Multithreading (python)
+ - Multithreading (Python)
  
 ## 2021 plans
 ### Website frameworks/languages
@@ -37,7 +48,7 @@ I really want to try learning some new frameworks in 2021. Since 2020 was more d
 I've enjoyed raylib so far and so I would like to start making more complex games using raylib.
 I am also interested giving back to the community in one way or the other.
 
-### Currently working on: rayworks, ResolveWebsite
+### Currently working on: rayworks, RemySzpuk.com, and ResolveWebsite (private repository, for work experience)
 
 
 
