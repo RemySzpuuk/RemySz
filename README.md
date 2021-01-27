@@ -39,6 +39,7 @@ I really want to try learning some new frameworks in 2021. Since 2020 was more d
 
 ### **Web frameworks/languages I am interested in learning:** 
  - HTML/CSS </li>
+ - PHP (learning)( </li>
  - Javscript </li>
  - React.js (Javascript) </li>
  - Django (Python) </li>
