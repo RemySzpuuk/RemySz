@@ -13,6 +13,7 @@ Luckily, I have some projects planned for 2021 which will make my profile look m
  - CSS
  - Python
  - C# (Learning)
+ - PHP (Learning)
  
 <br>
 
@@ -26,7 +27,8 @@ So below are my most used languages so far. As you can see lots of html :smile: 
  
  **librarys/frameworks/engines I am confident in**
  - C & Python standard library
- - Beautifulsoup4 (Python)
+ - Laravel (learning)
+ - Tailwind UI (learning)
  - Discord.py
  - raylib (C)
  - Unity (learning)
@@ -49,10 +51,12 @@ I really want to try learning some new frameworks in 2021. Since 2020 was more d
 I've enjoyed raylib so far and so I would like to start making more complex games using raylib.
 I am also interested giving back to the community in one way or the other.
 
-### Currently working on: 
-bubblegum.py; sitemap generation library, 
-RemySzpuk.com; my own personal website,
-and ResolveWebsite (private repository, for work experience)
+### Currently working on:  
+
+- RemySzpuk.com; my own personal website, 
+- WNCforums; a remake of an old forum website a friend made in PHP,
+- Stanley; advanced discord bot... 
+
 
 
 
