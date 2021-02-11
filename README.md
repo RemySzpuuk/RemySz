@@ -28,7 +28,6 @@ So below are my most used languages so far. As you can see lots of html :smile: 
  **librarys/frameworks/engines I am confident in**
  - C & Python standard library
  - Laravel (learning)
- - Tailwind UI (learning)
  - Discord.py
  - raylib (C)
  - Unity (learning)
@@ -54,8 +53,8 @@ I am also interested giving back to the community in one way or the other.
 ### Currently working on:  
 
 - RemySzpuk.com; my own personal website, 
-- WNCforums; a remake of an old forum website a friend made in PHP,
-- Stanley; advanced discord bot... 
+- Forums; a remake of an old forum website a friend made in PHP,
+- Wilson; advanced discord bot... 
 
 
 
