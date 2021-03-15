@@ -1,4 +1,4 @@
-## RemySzpuuk
+## Remy
 
 Hello! I'm Remy, I'm a 17 year old software development student looking for fun projects to contribute to and use.
 Currently I am confident in HTML/CSS, C++, and Python. 
