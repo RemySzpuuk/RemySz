@@ -3,7 +3,7 @@
 Hello! I'm Remy, I'm a 17 year old software development student looking for fun projects to contribute to and use.
 Currently I am confident in HTML/CSS, C++, and Python. 
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remysz&langs_count=8&theme=dark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remyszpuuk&langs_count=8&theme=dark)
 
 Favourite language this month: C++
 
