@@ -1,9 +1,9 @@
-## Remy
+## tokorv
 
-Hello! I'm Remy, I'm a 17 year old software development student looking for fun projects to contribute to and use.
+Hello! I'm tokorv, I'm a 17 year old software development student looking for fun projects to contribute to and use.
 Currently I am confident in HTML/CSS, C++, and Python. 
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remyszpuuk&langs_count=8&theme=dark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokorv&langs_count=8&theme=dark)
 
 Favourite language this month: C++
 
@@ -11,7 +11,7 @@ Favourite language this month: C++
 
 
 <!--
-**RemySzpuuk/RemySzpuuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
