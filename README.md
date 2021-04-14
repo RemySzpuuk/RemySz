@@ -1,7 +1,7 @@
 ## tokorv
 
 Hello! I'm tokorv, I'm a 17 year old software development student looking for fun projects to contribute to and use.
-Currently I am confident in HTML/CSS, C++, and Python. 
+Currently I am confident in HTML/CSS, C/C++, and Python. 
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokorv&langs_count=8&theme=dark)
 
