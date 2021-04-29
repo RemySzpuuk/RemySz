@@ -1,11 +1,9 @@
 ## tokorv
 
-Hello! I'm tokorv, I'm a 17 year old software development student looking for fun projects to contribute to and use.
-Currently I am confident in HTML/CSS, C/C++, and Python. 
+Hello... Why are you looking at my profile?
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokorv&langs_count=8&theme=dark)
 
-Favourite language this month: C++
 
 
 
