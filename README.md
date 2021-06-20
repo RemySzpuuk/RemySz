@@ -1,10 +1,3 @@
-## tokorv
-
-Hello... Why are you looking at my profile?
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokorv&langs_count=8&theme=dark)
-
-
 
 
 
