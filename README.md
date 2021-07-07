@@ -1,4 +1,15 @@
+**Hello, there** 
+⚡ My name is tokorv, and I enjoy programming as a hobby. ⚡
 
+I am very interested in programming languages and how they work.
+I am currently reading the CraftingInterpreters online book by Bob Nystrom and am taking an online undergraduate course on compilers by Stanford university.
+
+The programming languages I use are C, C++ and Python.
+I am also learning html, css and JavaScript for web development.
+
+✨ Currently Working on ✨
+HFPE: Open Source palette manipulation program (Game Modding)
+tokorv.github.io: My personal website to host information about me and my projects.
 
 
 <!--
