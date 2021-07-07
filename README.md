@@ -7,8 +7,8 @@ I am currently reading the CraftingInterpreters online book by Bob Nystrom and a
 The programming languages I use are C, C++ and Python.
 I am also learning html, css and JavaScript for web development.
 
-✨ Currently Working on ✨
-HFPE: Open Source palette manipulation program (Game Modding)
+✨ Currently Working on ✨<br>
+HFPE: Open Source palette manipulation program (Game Modding)<br>
 tokorv.github.io: My personal website to host information about me and my projects.
 
 
