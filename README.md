@@ -12,6 +12,11 @@ I am familar with the Godot Game Engine and it's scripting language, GDscript.<b
 HFPE: Open Source palette manipulation program (Game Modding)<br>
 tokorv.github.io: My personal website to host information about me and my projects.
 
+💡 Currently reading: "Crafting Interpreters" by Bob Nystrom<br>
+🌟 Reading list:
+- "Compilers: Principles, Techniques, and Tools" by Alfred Aho
+- "Clean Code" by Robert C Martin
+- "Modern compiler implementation in ML" by Andrew Appel
 
 <!--
 **k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
