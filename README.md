@@ -16,7 +16,7 @@ tokorv.github.io: My personal website to host information about me and my projec
 🌟 Reading list:
 - "Compilers: Principles, Techniques, and Tools" by Alfred Aho
 - "Clean Code" by Robert C Martin
-- "Modern compiler implementation in ML" by Andrew Appel
+- "Algorithms" by Robert Sedgewick
 
 <!--
 **k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
